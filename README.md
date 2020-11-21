@@ -8,4 +8,5 @@
 
 `pip install django-cors-headers`
 
-For complete documentation go to the following link:
+Visit following link for complete documentation:
+https://bit.ly/370LLDw
