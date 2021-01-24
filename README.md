@@ -4,8 +4,10 @@
 
 `pip install razorpay`
 
-`pip install environ`
+`pip install django-environ`
 
 `pip install django-cors-headers`
+
+or reffer requirements.txt
 
 For complete documentation go to the following link:
